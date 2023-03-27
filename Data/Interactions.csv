@@ -317,7 +317,7 @@
 316;Esplanade_Fauche_Juin;6;Daucus_carota;255;Lasioglossum_spec.;1
 317;Esplanade_Fauche_Juin;6;Daucus_carota;256;Hylaeus_spec.;2
 318;Esplanade_Fauche_Juin;6;Daucus_carota;257;Hylaeus_spec.;3
-319;Esplanade_Fauche_Juin;4;Jacobaea_vulgaris;258;wickia_ferox;1
+319;Esplanade_Fauche_Juin;4;Jacobaea_vulgaris;258;Nowickia_ferox;1
 320;Esplanade_Fauche_Juin;6;Daucus_carota;260;Hylaeus_spec.;3
 321;Esplanade_Fauche_Juin;6;Daucus_carota;261;Hylaeus_spec.;2
 322;Esplanade_Fauche_Juin;4;Jacobaea_vulgaris;262;Sphaerophoria_spec.;1
@@ -387,7 +387,7 @@
 386;BST_Fauche_Juin_Q2;5;Trifolium_repens;312;Apis_mellifera;3
 387;BST_Fauche_Juin_Q3;23;Bellis_perennis;;;0
 388;BST_Fauche_Juin_Q3;1;Hypochaeris_radicata;;;0
-389;BST_Fauche_Juin_Q3;40;Ranunculus_repens;315;Melastoma_spec.;4
+389;BST_Fauche_Juin_Q3;40;Ranunculus_repens;315;Melanostoma_spec.;4
 390;BST_Fauche_Juin_Q3;40;Ranunculus_repens;314;Syrphus_spec.;1
 391;BST_Tonte_Juin;13;Bellis_perennis;;;0
 392;BST_Tonte_Juin;5;Trifolium_dubium;;;0
@@ -459,7 +459,7 @@
 458;AvGL_Tonte_Juin;5;Hypochaeris_radicata;379;Episyrphus_balteatus;2
 459;AvGL_Tonte_Juin;14;Prunella_vulgaris;;;0
 460;AvGL_Tonte_Juin;10;Trifolium_dubium;;;0
-461;AvGL_Tonte_Juin;120;Trifolium_repens;374;Melastoma_mellinum;1
+461;AvGL_Tonte_Juin;120;Trifolium_repens;374;Melanostoma_mellinum;1
 462;AvGL_Tonte_Juin;1;Veronica_serpyllifolia;;;0
 463;AvGL_Tonte_Juin;120;Trifolium_repens;375;Episyrphus_balteatus;1
 464;AvGL_Tonte_Juin;5;Hypochaeris_radicata;376;Episyrphus_balteatus;1
@@ -483,7 +483,7 @@
 482;AvGL_Fauche_Juin;5;Hypochaeris_radicata;392;Halictidae_indet.;3
 483;AvGL_Fauche_Juin;41;Prunella_vulgaris;382;Anthophila_indet.;4
 484;AvGL_Fauche_Juin;41;Prunella_vulgaris;409;Episyrphus_balteatus;2
-485;AvGL_Fauche_Juin;41;Prunella_vulgaris;385;Melastoma_mellinum_Platycheirus_albimanus;1
+485;AvGL_Fauche_Juin;41;Prunella_vulgaris;385;Melanostoma_mellinum_Platycheirus_albimanus;1
 486;AvGL_Fauche_Juin;41;Prunella_vulgaris;387;Episyrphus_balteatus;3
 487;AvGL_Fauche_Juin;5;Hypochaeris_radicata;391;Episyrphus_balteatus;3
 488;AvGL_Fauche_Juin;5;Hypochaeris_radicata;393;Lasioglossum_spec.;2
@@ -504,14 +504,14 @@
 503;Stevin_Tonte_Juin;4;Bellis_perennis;410;Lasioglossum_spec.;1
 504;Stevin_Tonte_Juin;1;Hypochaeris_radicata;410;Lasioglossum_spec.;1
 505;Stevin_Tonte_Juin;1;Prunella_vulgaris;;;0
-506;Stevin_Tonte_Juin;2;Ranunculus_repens;416;Melastoma_mellinum_Platycheirus_albimanus;1
+506;Stevin_Tonte_Juin;2;Ranunculus_repens;416;Melanostoma_mellinum_Platycheirus_albimanus;1
 507;Stevin_Tonte_Juin;19;Trifolium_repens;414;Bombus_pascuorum;1
 508;Stevin_Tonte_Juin;1;Hypochaeris_radicata;411;Lasioglossum_spec.;1
 509;Stevin_Tonte_Juin;1;Hypochaeris_radicata;412;Lasioglossum_(Dialictus)_spec.;1
 510;Stevin_Tonte_Juin;1;Hypochaeris_radicata;413;Lasioglossum_spec.;1
 511;Stevin_Tonte_Juin;4;Bellis_perennis;417;Platycheirus_albimanus;1
 512;Stevin_Tonte_Juin;2;Ranunculus_repens;411;Lasioglossum_spec.;1
-513;Stevin_Tonte_Juin;2;Ranunculus_repens;415;Melastoma_mellinum_Platycheirus_albimanus;1
+513;Stevin_Tonte_Juin;2;Ranunculus_repens;415;Melanostoma_mellinum_Platycheirus_albimanus;1
 514;Redime_Fauche_Juin_Q1;12;Centaurea_jacea;430;Aglais_io;1
 515;Redime_Fauche_Juin_Q1;1;Galium_mollugo;;;0
 516;Redime_Fauche_Juin_Q1;10;Leucanthemum_vulgare;;;0
@@ -581,7 +581,7 @@
 580;AvThSc_Fauche_Juin;35;Trifolium_repens;460;Bombus_pascuorum;1
 581;AvThSc_Fauche_Juin;35;Trifolium_repens;461;Bombus_lapidarius;1
 582;AvThSc_Fauche_Juin;5;Prunella_vulgaris;463;Syrphus_spec.;1
-583;AvThSc_Fauche_Juin;1;Hypochaeris_radicata;464;Melastoma_mellinum;1
+583;AvThSc_Fauche_Juin;1;Hypochaeris_radicata;464;Melanostoma_mellinum;1
 584;AvThSc_Fauche_Juin;35;Trifolium_repens;466;Episyrphus_balteatus;1
 585;AvThSc_Fauche_Juin;5;Prunella_vulgaris;467;Platycheirus_albimanus;1
 586;Maxwell_Tonte_Juin;41;Bellis_perennis;484;Episyrphus_balteatus;1
@@ -853,7 +853,7 @@
 852;Cyclotron_Tonte_miJuillet;89;Trifolium_repens;688;Apis_mellifera;7
 853;Cyclotron_Tonte_miJuillet;89;Trifolium_repens;689;Apis_mellifera;21
 854;Cyclotron_Tonte_miJuillet;89;Trifolium_repens;690;Apis_mellifera;1
-855;Cyclotron_Fauche_miJuillet;5;Centaurea_jacea;692;Lasioglossum_sextatum;2
+855;Cyclotron_Fauche_miJuillet;5;Centaurea_jacea;692;Lasioglossum_sexnotatum;2
 856;Cyclotron_Fauche_miJuillet;10;Leucanthemum_vulgare;720;Cheilosia_spec.;1
 857;Cyclotron_Fauche_miJuillet;2;Malva_alcea_._Malva_moschata;;;0
 858;Cyclotron_Fauche_miJuillet;5;Centaurea_jacea;693;Lasioglossum_(Leuchalictus)_spec.;5
@@ -1619,7 +1619,7 @@
 1618;Herge_Tonte_finJuillet;59;Trifolium_repens;1303;Apis_mellifera;2
 1619;Source_Tonte_finJuillet;3;Bellis_perennis;;;0
 1620;Source_Tonte_finJuillet;34;Trifolium_repens;1306;Apis_mellifera;3
-1621;Source_Tonte_finJuillet;34;Trifolium_repens;1305;Melastoma_mellinum;1
+1621;Source_Tonte_finJuillet;34;Trifolium_repens;1305;Melanostoma_mellinum;1
 1622;Source_Tonte_finJuillet;34;Trifolium_repens;1307;Apis_mellifera;5
 1623;CAV_Fauche_finJuillet_Q1;2;Achillea_millefolium;;;0
 1624;CAV_Fauche_finJuillet_Q1;2;Betonica_officinalis;1314;Bombus_pascuorum;1
